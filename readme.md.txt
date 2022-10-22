@@ -6,4 +6,4 @@
 - En este se realizan los cambio de codigo
 - Rama secundaria llamada espacioSolo
 - Todo cambio a realizar verificar que nos encontramos en una rama diferente a la main para no cambiar el codigo principal con el que trabajan los usuarios
-- Otra por las dudas
+- Otra por las dudas    
